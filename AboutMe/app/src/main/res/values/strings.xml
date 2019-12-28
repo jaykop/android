@@ -3,18 +3,9 @@
     <string name="name">JuyongJeong</string>
     <string name="yellow_star">Yellow star</string>
 
-    <string name="bio">안녕 인간들아,
-    \n\n내 이름은 정주용이야 장차 전세계를 제패할 프로그래머지
-    \n\n미래를 보장받고 평안한 삶을 누리고 싶으면 내 앞에 무릎꿇고
-    내게 합격 통지서를 날려
-    \n\n난 미국에서 쭈욱 살다가 영주권가지 해먹고 탈조선 할거야 그리고 존나 가슴큰 일본 여자를 만나서 결혼할 거란다
-    \n\nㅈㄴ 연봉을 10만불을 받고 컴퓨터는 항상 최고사양에다가 아들 하나 딸 하나 낳아서 100살까지 살다 안 아프게 뒤질거야
-        솔직히 이정도면 스크롤 가능해야하는 거 아니냐
-        헛소리 길게 쓰기 너무 힘들다....
-        아니 핸드폰이 크면 얼마나 크다고 아직도 스크롤이 안돼
-        무슨 대서사시를 써야하는 거도 아니고 제발 그냥 좀 스크롤 뜰 정도로
-        폰트를 그냥 키울까 아 진짜 너무 피곤하다
-        이제 10강인데 여태 들은 거 2배 더 들어야 레이아웃 클라스 끝난단 말이다
-        제발 이제는 됐겠지
-    \n\n하하하핳</string>
+    <string name="bio">I am a computer programmer.
+        \n\nCurrently senior year in DigiPen institute of Technology.
+        \n\nFor most of my school projects,
+        \n\nI was in charge of gameplay programmer position.
+        \n\nAlso I have experience in base engine, graphics engine, and AI programming using C/C++ as well.</string>
 </resources>
