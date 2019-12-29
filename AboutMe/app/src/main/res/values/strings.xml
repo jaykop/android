@@ -8,4 +8,6 @@
         \n\nFor most of my school projects,
         \n\nI was in charge of gameplay programmer position.
         \n\nAlso I have experience in base engine, graphics engine, and AI programming using C/C++ as well.</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
 </resources>
